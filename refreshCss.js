@@ -1,5 +1,5 @@
 /**
- * filename.js
+ * refreshCss.js
  *
  * @author alextang<colinvivy#gmail.com>
  * @date
